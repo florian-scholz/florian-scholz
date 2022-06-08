@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **iOS Development**
 
-- 💬 Ask me about **Swift, Machine Learning, C++, Python**
+- 💬 Ask me about **Swift, SwiftUI, Machine Learning, C++, Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
