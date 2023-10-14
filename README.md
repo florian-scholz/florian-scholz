@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently studying **Bachelor of Computer Science**
 
-- 🌱 I’m currently learning **Scala and Haskell**
+- 🌱 I’m currently learning **Typst**
 
 - 👯 I’m looking to collaborate on **iOS Development**
 
 - 🤝 I’m looking for help with **iOS Development**
 
-- 💬 Ask me about **Swift, SwiftUI, Machine Learning, C++, Python**
+- 💬 Ask me about **Swift, SwiftUI, Machine Learning, C++, Python, Scala and Haskell**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
